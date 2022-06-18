@@ -6,6 +6,10 @@
 <hr>
 This project is to maintain the grades for a student in a course. It calculates the overall GPA.
 <br>
+<b>UML Diagram:</b>
+
+![UML_Diagram](https://user-images.githubusercontent.com/72649005/174438082-41c1d41f-e043-4e6b-8f63-3731924451e0.png)
+<br>
 <b>Example view of the project:</b>
 <hr>
 
