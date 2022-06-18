@@ -1,4 +1,4 @@
-# GPA Calculator
+# CourseGrade
 @author -> Tevfik Kesici
 <br>
 @since -> 29.03.2021
